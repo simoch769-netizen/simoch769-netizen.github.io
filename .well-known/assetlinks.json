@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.simoch769.msarifi",
+      "sha256_cert_fingerprints": [
+        "CA:CC:3A:41:36:06:F9:D8:A7:22:1C:90:22:3A:47:41:7E:06:C7:01:2B:2E:70:46:88:11:2E:E7:6F:E0:C9:AC"
+      ]
+    }
+  }
+]
